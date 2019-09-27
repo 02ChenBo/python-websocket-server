@@ -1,3 +1,8 @@
-下载必须的包 https://github.com/Pithikos/python-websocket-server，解压缩并把文件夹名‘python-websocket-server-master’ 改为‘websocket’
-.websocket文件夹内只保留websocket_server文件夹和server.py
+解压缩并把文件夹名‘python-websocket-server-master’ 改为‘websocket’
+
+
+websocket文件夹内只保留websocket_server文件夹和server.py,websocket_index.html
+
+
 在django中 路由进入到websocket的界面 在服务器启动server.py文件 在界面上就可以发送消息
+
